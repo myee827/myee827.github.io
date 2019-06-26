@@ -1,0 +1,24 @@
+h1{
+  color: #0000FF;
+  font-family: Helvetica;
+  font-size: 40px;
+  text-align: center;
+}
+
+p{
+ font-style: italic;
+ text-align: center;
+}
+
+thead{
+  color: gray;
+  text-align: left;
+  
+}
+
+table{
+  font-size: 20px;
+}
+
+
+
